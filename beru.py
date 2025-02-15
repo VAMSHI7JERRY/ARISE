@@ -1,1 +1,1 @@
-print("I AM THE KNIG!!!!")
+print("I AM THE KING!!!!")
